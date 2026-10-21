@@ -2,7 +2,7 @@
 	<BaseComponent :activePage="'home'">
 		<template v-slot:page-label>
 			<span class="logo">
-				<b>Nightly</b>
+				<b>Neon</b>
 				<b>Notes</b>
 			</span>
 		</template>

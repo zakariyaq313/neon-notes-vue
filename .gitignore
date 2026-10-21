@@ -21,8 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-deploy.sh
-vue.config.js
-babel.config.js
-.browserslistrc
-.eslintrc.js

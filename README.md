@@ -1,6 +1,6 @@
-# **Nightly Notes (Vue)**
+# **Neon Notes (Vue)**
 
-A notes application, inspired by Google Keep, built with Vue. There is also an [alternate version](https://github.com/zakariyaq313/nightly-notes-react) using React.
+A notes application, inspired by Google Keep, built with Vue. There is also an [alternate version](https://github.com/zakariyaq313/neon-notes-react) using React.
 
 **Screenshot -**
 
@@ -32,4 +32,4 @@ I have added a little info on the app's design progression [here](./src/README.m
 **How to run in local server -**
 - `Clone` the respository
 - `npm install` - To install project dependencies
-- `npm run serve` - To start the development server
+- `npm run dev` - To start the development server

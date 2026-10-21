@@ -1,3 +1,4 @@
+@use "../mixins/mixins.scss" as *;
 * {
     padding: 0;
     margin: 0;
@@ -51,7 +52,7 @@ html {
 
 @font-face{
     font-family: "Glacial Indifference";
-    src: url("../assets/fonts/Glacial\ Indifference\ Regular.otf");
+    src: url("../../assets/fonts/Glacial\ Indifference\ Regular.otf");
 }
 
 body {

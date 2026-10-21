@@ -1,3 +1,4 @@
+@use "../mixins/mixins.scss" as *;
 header,
 header .logo {
     display: flex;

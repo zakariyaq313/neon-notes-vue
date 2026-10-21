@@ -3,7 +3,7 @@
 		<p>
 			Created by
 			<a class="rising-background"
-				href="https://zakariyaq313.github.io/my-website/"
+				href="https://zakariyaq313.github.io/personal-website/"
 				target="_blank" rel="noopener noreferrer">
 				Muhammad Zakariya
 			</a>
